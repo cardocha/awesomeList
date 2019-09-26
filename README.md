@@ -1,6 +1,5 @@
 # My Awesome List 
 ![Oh Yeah](https://tenor.com/view/party-parrot-bird-gif-8275708.gif)
-
 ### Miscellaneous
 
 | Url                    | Description                                                  |
