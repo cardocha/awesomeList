@@ -1,4 +1,4 @@
-# awesomeList
+# My Awesome List
 
 ### Miscellaneous
 
