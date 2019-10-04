@@ -5,6 +5,7 @@
 | Url                    | Description                                                  |
 | ---------------------- | ------------------------------------------------------------ |
 | https://asciinema.org/ | Awesome terminal recorder and incredible terminal art "repo". |
+|https://github.com/EionRobb/skype4pidgin/tree/master/skypeweb|Use Skype on Pidgin/Debian|
 
 
 
